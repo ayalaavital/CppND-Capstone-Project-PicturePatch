@@ -93,7 +93,7 @@ void App::runChanges() {
                 img.scaleImg(ImgType::bg_img, scalePercent);
                 break;
             }
-            case ChangeType::foreround_img: {
+            case ChangeType::foreground_img: {
                 cv::Mat fg = std::move(parser.getPicFromUser(ImgType::fg_img));
                 img.setImage(ImgType::fg_img, std::move(fg));
                 cv::Rect r = getFgPatchRectFromUser();
