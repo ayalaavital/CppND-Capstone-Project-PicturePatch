@@ -1,0 +1,29 @@
+backgroundPath: "../data/bojack_bg.png"
+foregroundPath: "../data/whitney.jpg"
+
+resizeBgImg: "N"  # N/Y
+#bgScalePercent: 100
+resizeFgImg: "Y"  # N/Y
+fgScalePercent: 130
+
+# fg rect with scale 130
+fgX: 25
+fgY: 48
+fgWidth: 381
+fgHeight: 492
+
+# fg rect with scale 100
+# fgX: 16
+# fgY: 33
+# fgWidth: 292
+# fgHeight: 383
+
+fgLocationType: "BL"  # BL/TL/BR/TR/C
+fgLocationX: 250
+fgLocationY: 675
+
+saveImg: "N"      # N/Y
+
+nameImg: "merged_img"
+
+makeChange: "N"   # N/Y
