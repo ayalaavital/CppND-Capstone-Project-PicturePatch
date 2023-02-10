@@ -4,7 +4,7 @@
 ![Project Image](data/project_output.png)
 
 ## Project Overview
-This project is a part of the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213), 
+This project is a part of the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213),
 and it aims to generate an image by combining an object from one image with a 
 background image. The user has the ability to choose the desired position of the 
 object within the background and adjust its size as desired.
