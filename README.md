@@ -1,7 +1,7 @@
 # CppND Capstone Project
 ## PicturePatch using OpenCV
 
-![Project Image](data/project_img.png)
+![Project Image](data/project_output.png)
 
 ## Project Overview
 This project is a part of the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213), 
