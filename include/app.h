@@ -11,9 +11,9 @@
 
 
 enum ChangeType {
-    bg_img,              //Change the background image
+    background_img,      //Change the background image
     resize_bg,           //Resize the background image
-    fg_img,              //Change the foreground image
+    foreground_img,      //Change the foreground image
     resize_fg,           //Resize the foreground image
     fg_location_xy,      // Change fgLocation by entering coordinates
     fg_location_select   // Change fgLocation by cv::selectROI
