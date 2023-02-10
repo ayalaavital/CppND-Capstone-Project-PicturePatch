@@ -17,7 +17,7 @@ enum ChangeType {
     resize_fg,           //Resize the foreground image
     fg_location_xy,      // Change fgLocation by entering coordinates
     fg_location_select   // Change fgLocation by cv::selectROI
-}
+};
 
 
 class App {
